@@ -1,5 +1,4 @@
 import React from 'react'
-import miniReactIcon from '/react-icon-small.png'
 
 export default function Navbar(props) {
   return (
@@ -8,7 +7,7 @@ export default function Navbar(props) {
       >
           <img 
               className="nav--logo_icon"
-              src={miniReactIcon}
+              src="./react-icon-small.png"
           />
           <h3 className="nav--logo_text">ReactFacts</h3>
           
