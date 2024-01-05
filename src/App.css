@@ -26,9 +26,9 @@ nav {
   align-items: center;
   background-color: #ffffff;
   padding: 30px 25px;
-  height: 60px;
-  box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
-  z-index: 1;
+  height: 75px;
+  box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.25);
+    z-index: 1;
 }
 
 nav.dark {
@@ -41,7 +41,6 @@ nav.dark {
 }
 
 .nav--logo_text {
-  color: #61DAFB;
   margin-right: auto;
   color: #00ABCA;
   font-family: "Inter", sans-serif, serif;
