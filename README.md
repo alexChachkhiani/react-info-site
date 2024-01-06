@@ -6,4 +6,5 @@ React Info Site is a simple read-only website that tells you some facts about Re
 The site has:
 * White
 * Black
+
 themes
