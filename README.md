@@ -7,4 +7,4 @@ The site has:
 * White
 * Black
 
-themes
+themes.
